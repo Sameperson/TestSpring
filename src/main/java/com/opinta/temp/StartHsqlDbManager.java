@@ -10,6 +10,6 @@ import javax.annotation.PostConstruct;
 public class StartHsqlDbManager {
     @PostConstruct
     public void startDBManager() {
-        DatabaseManagerSwing.main(new String[]{"--url", "jdbc:hsqldb:mem:testdb", "--user", "sa", "--password", "sa"});
+//        DatabaseManagerSwing.main(new String[]{"--url", "jdbc:hsqldb:mem:testdb", "--user", "sa", "--password", "sa"});
     }
 }
