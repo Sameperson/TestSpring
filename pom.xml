@@ -176,11 +176,11 @@
             <version>3.3.0</version>
         </dependency>
         <!-- Oracle -->
-        <dependency>
-            <groupId>com.oracle</groupId>
-            <artifactId>ojdbc</artifactId>
-            <version>8</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.oracle</groupId>-->
+            <!--<artifactId>ojdbc</artifactId>-->
+            <!--<version>8</version>-->
+        <!--</dependency>-->
         <!-- HyperSQL DB -->
         <dependency>
             <groupId>org.hsqldb</groupId>
